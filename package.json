@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/octopitus/rn-sliding-up-panel.git"
+    "url": "git+https://github.com/andrycodestuffs/rn-sliding-up-panel.git"
   },
   "keywords": [
     "react",
@@ -24,9 +24,9 @@
   "author": "Luy Tran <thailuy86@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/octopitus/rn-sliding-up-panel/issues"
+    "url": "https://github.com/andrycodestuffs/rn-sliding-up-panel/issues"
   },
-  "homepage": "https://github.com/octopitus/rn-sliding-up-panel#readme",
+  "homepage": "https://github.com/andrycodestuffs/rn-sliding-up-panel#readme",
   "peerDependencies": {
     "react": ">=16.x",
     "react-native": ">=0.47",
