@@ -1,6 +1,6 @@
 {
   "name": "rn-sliding-up-panel",
-  "version": "2.0.0-rc4",
+  "version": "2.0.0-rc6",
   "description": "Draggable sliding up panel implemented in React Native",
   "main": "SlidingUpPanel.js",
   "scripts": {
@@ -29,7 +29,8 @@
   "homepage": "https://github.com/octopitus/rn-sliding-up-panel#readme",
   "peerDependencies": {
     "react": ">=16.x",
-    "react-native": ">=0.47"
+    "react-native": ">=0.47",
+    "react-native-extra-dimensions-android": "^1.0.0"
   },
   "dependencies": {
     "clamp": "^1.0.1",
